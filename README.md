@@ -4,7 +4,7 @@ A collection of some more or less simple micro:bit projects.
 ## Alarm (blocks)
 A motion detection alarm.
 * Press A+B
-* Place alarm before timer has reach zero.
+* Place alarm before timer has reached zero.
 * When the lock icon is shown, the alarm will go off if moved.
 
 ## Candle (blocks)
@@ -26,7 +26,7 @@ An experimental "instrument"
 ## JingleBells (blocks)
 A chistmas gift surprise.
 * Press A+B
-* Place micro:bit in closed box before timer has reach zero.
+* Place micro:bit in closed box before timer has reached zero.
 * The music will start playing when box is open if the light level is high enough.
  
 ## SerialMonitor
