@@ -38,3 +38,8 @@ A small monitor to display a value from the serial port. It also plays a beep if
 * Replay the value by pressing A.
 * Togle sound on/off by pressing B.
 * Change brightness of the LEDs by pressing the logo.
+
+## IconChat (blocks)
+A small chat program that sends icons over redia to other micro:bits.
+* Use A or B to scroll through the available icons.
+* Press A+B to send the selected icon via radio to any micro:bit in range.
