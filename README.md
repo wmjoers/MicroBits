@@ -40,6 +40,6 @@ A small monitor to display a value from the serial port. It also plays a beep if
 * Change brightness of the LEDs by pressing the logo.
 
 ## IconChat (blocks)
-A small chat program that sends icons over radio to other micro:bits.
+A small chat program that sends an icon over radio to other micro:bits.
 * Use A or B to scroll through the available icons.
 * Press A+B to send the selected icon via radio to any micro:bit in range.
