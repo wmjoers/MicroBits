@@ -29,7 +29,7 @@ A chistmas gift surprise.
 * Place micro:bit in closed box before timer has reached zero.
 * The music will start playing when box is open if the light level is high enough.
  
-## SerialMonitor
+## SerialMonitor (blocks + requires program on computer)
 A small monitor to display a value from the serial port. It also plays a beep if the number is higher than before.
 * Connect micro:bit to serialport using USB-cable.
 * Start program on computer to send a value (ending with new line character) through the serial port.
