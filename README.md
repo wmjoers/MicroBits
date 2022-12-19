@@ -6,3 +6,8 @@ A motion detection alarm.
 * Press A+B
 * Place alarm within 9 seconds
 * When the lock icon is shown, the alarm will go off if moved.
+
+## Candle
+A magic canndle simulator.
+* Snap your fingers to light the canndle.
+* Blow it out.
