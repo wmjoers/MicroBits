@@ -43,3 +43,14 @@ A small monitor to display a value from the serial port. It also plays a beep if
 A small chat program that sends an icon over radio to other micro:bits.
 * Use A or B to scroll through the available icons.
 * Press A+B to send the selected icon via radio to any micro:bit in range.
+
+## RollingBall (blocks)
+Test application for using the accelerometer to control a sprite.
+* Tilt the microbit to steer the sprite.
+* Press A or B for sound effects.
+
+# Fireplace (blocks)
+Fireplace simulator.
+* Watch the beautiful fireplace and listen to the sparkling sound it make.
+* Smoke not included.
+
