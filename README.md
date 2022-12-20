@@ -49,7 +49,7 @@ Test application for using the accelerometer to control a sprite.
 * Tilt the microbit to steer the sprite.
 * Press A or B for sound effects.
 
-# Fireplace (blocks)
+## Fireplace (blocks)
 Fireplace simulator.
 * Watch the beautiful fireplace and listen to the sparkling sound it make.
 * Smoke not included.
