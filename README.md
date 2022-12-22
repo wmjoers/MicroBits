@@ -54,7 +54,7 @@ Fireplace simulator.
 * Watch the beautiful fireplace and listen to the sparkling sound it make.
 * Smoke not included.
 
-## 2plRockPaperScissors
+## 2plRockPaperScissors (blocks)
 A Rock Paper Scissors game for two players (two micro:bits).
 * Use A or B to scroll through the signs.
 * Press A+B to send the sign. 
