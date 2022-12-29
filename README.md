@@ -67,3 +67,11 @@ A multiplayer treasure hunt.
 * Press A to start treasure mode. It sends a signal ebery half second.
 * Press B to start hunter mode. It displays the signal strength from the treasue or a sad face if no signal was recieved in two seconds.
 * Press A+B to go to start mode.
+
+## MultiPlayerSync (blocks)
+An example on how to connect several devices and select a master device.
+* Start all devices. All units should whow a ghost icon.
+* Press A or B to start sync. A = select random master device, B = select the current device as master.
+* During sync, all devices should show how many devices they find (including them self).
+* After sync is completed a crown-icon will be shown on the selected master unit, the other devices should show a person-icon.
+
