@@ -61,3 +61,9 @@ A Rock Paper Scissors game for two players (two micro:bits).
 * When both players has selected signs an animation plays on both devices showing the other players sign.
 * It then show the result and the current score.
 * Press A+B to continue to next round. Both devices continue if one player presses A+B.
+
+## TreasureHunt (blocks)
+A multiplayer treasure hunt.
+* Press A to start treasure mode. It sends a signal ebery half second.
+* Press B to start hunter mode. It displays the signal strength from the treasue or a sad face if no signal was recieved in two seconds.
+* Press A+B to go to start mode.
